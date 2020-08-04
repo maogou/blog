@@ -6,6 +6,10 @@
 
 - https://juluzhizhan.com/
 
+## 调试&编译
+
+- 本地调试  ./bin/hugo server
+- 线上编译  ./bin/hugo --theme=hermit --baseUrl="/"
 
 ## License
 
