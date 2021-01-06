@@ -9,7 +9,7 @@ date: "2020-03-15"
 ### 联系方式：
 
 - Github：https://github.com/kinyou/blog
-- 微信：xianmaogou
+- 微信：xingmaogou
 - 邮箱：   kinyou_xy@126.com
 
 ![image](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/e6a6ce2192c51a351edd7508caa38c207ab2d40255293151461739d45e853b54245e2d1f04cef33470202d4f9e04f03e?pictype=scale&from=30113&version=3.3.3.3&uin=572768614&fname=wechat.jpg&size=750)
